@@ -1,2 +1,15 @@
-# MySecurityJourney
+# My Security Journey
+
 Security is everyone's responsibility! I wanted to documented my "Security Journey" experience, notes and useful links.
+
+If you are interested in trying the platform yourself, visit: https://tryus.securityjourney.com/
+
+## Belts
+
+As you improve your security knowledge, you would achieve different belts, called the Security Belt Program Framework.
+
+> The mark of mastery and the color of change.
+
+1. [White belt](WhiteBelt.md)
+1. [Yellow belt](WhiteBelt.md)
+1. [Green belt](GreenBelt.md)
