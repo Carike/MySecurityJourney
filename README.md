@@ -11,5 +11,5 @@ As you improve your security knowledge, you would achieve different belts, calle
 > The mark of mastery and the color of change.
 
 1. [White belt](WhiteBelt.md)
-1. [Yellow belt](WhiteBelt.md)
+1. [Yellow belt](YellowBelt.md)
 1. [Green belt](GreenBelt.md)
