@@ -1,6 +1,6 @@
 # My Security Journey
 
-Security is everyone's responsibility! I wanted to documented my "Security Journey" experience, notes and useful links.
+Security is everyone's responsibility! I wanted to documented my [Security Journey](https://www.securityjourney.com) experience, notes and useful links.
 
 If you are interested in trying the platform yourself, visit: https://tryus.securityjourney.com/
 
