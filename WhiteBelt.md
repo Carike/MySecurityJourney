@@ -1,5 +1,7 @@
 # White belt
 
+![White Belt](/images/white_belt.png)
+
 ## Introduction to Security Journey
 
 In this first lesson, we introduce you to security levels and the path from Security White to Black Belt. We provide a short demo of all the Security Dojo's excellent features and review tips for success with the Security Journey platform.
