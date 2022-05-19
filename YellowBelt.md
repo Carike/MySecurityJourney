@@ -1,4 +1,6 @@
-# Yellow belt
+# Yellow Belt
+
+![Yellow Belt](/images/yellow_belt.png)
 
 ## Six Foundational Truths of Application Security
 

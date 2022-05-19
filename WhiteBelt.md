@@ -1,4 +1,4 @@
-# White belt
+# White Belt
 
 ![White Belt](/images/white_belt.png)
 
