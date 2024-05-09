@@ -10,8 +10,8 @@ As you improve your security knowledge, you would achieve different belts, calle
 
 _The mark of mastery and the color of change._
 
-1. [White belt](./whiteBelt.md)
-1. [Yellow belt](./yellowBelt.md)
-1. [Green belt](./greenBelt.md)
-1. [Brown belt](./brownBelt.md)
-1. [Black belt](./blackBelt.md)
+1. [White belt](./1_whiteBelt.md)
+1. [Yellow belt](./2_yellowBelt.md)
+1. [Green belt](./3_greenBelt.md)
+1. [Brown belt](./4_brownBelt.md)
+1. [Black belt](./5_blackBelt.md)
